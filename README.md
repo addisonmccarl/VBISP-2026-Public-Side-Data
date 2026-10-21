@@ -1,4 +1,4 @@
-# VBISP-2026-Public-Side-Data
+# VBISP-2026-Public-Side-Data (in progress)
 
 ## What?
 This is a repository for public side data work I did while at REU-PATHI in the summer of 2026. I used social determinants of health, namely  ADI and SVI, to predict block level crash rate and crash-level fatality rate (respectively). The primary regressions also involved 311 request data, daytime population, crash-level lighting, and road type. I experimented with incorporating speed limit data and more infrastructure variables (sidewalk quality, quantity, satellite lighting) but they were ultimately discarded because they were not useful and/or highly covariant. 
